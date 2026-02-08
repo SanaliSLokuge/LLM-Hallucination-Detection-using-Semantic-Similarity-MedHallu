@@ -37,7 +37,7 @@ Each data sample contains:
 
 ### Output
 
-- **Binary classification** indicating whether an LLM response is hallucinated or not
+- **Binary classification** indicating whether an LLM response is hallucinated or not : Factual / Hallucinated
 
 ---
 
@@ -58,4 +58,11 @@ This project discusses ethical risks related to:
 - Reliability of LLM outputs  
 - False confidence in hallucinated answers  
 - Bias inherited from training data  
-- Limitations of automated hallucination detection systems  
+- Limitations of automated hallucination detection systems
+
+
+  **MedHallu Dataset**
+
+MedHallu Contributors. (2023). *MedHallu: A dataset for hallucination detection in large language model responses*. HuggingFace Datasets.  
+https://huggingface.co/datasets/medhallu
+
