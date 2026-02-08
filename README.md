@@ -61,7 +61,9 @@ This project discusses ethical risks related to:
 - Limitations of automated hallucination detection systems
 
 
-  **MedHallu Dataset**
+
+
+## **MedHallu Dataset**
 
 MedHallu Contributors. (2023). *MedHallu: A dataset for hallucination detection in large language model responses*. HuggingFace Datasets.  
 https://huggingface.co/datasets/medhallu
